@@ -1,8 +1,6 @@
 ### Hola, soy Mateo 👋
 
-Tecnólogo en Finanzas, actualmente formándome como Ingeniero de Sistemas (UNAD), con más de 4 años de experiencia profesional en tecnología y telecomunicaciones.
-
-Combino visión de negocio (Finanzas) con base técnica (tecnología, Python) en mi camino hacia el Análisis de Datos — no como algo nuevo y desconectado, sino aplicando ambas cosas a problemas reales que me interesan.
+Tecnólogo en Finanzas y estudiante de Ingeniería de Sistemas con más de 4 años de experiencia en tecnología y telecomunicaciones. Uno la mirada de negocio de las finanzas con la disciplina técnica de la operación de redes: uso Python y SQL para responder preguntas concretas con datos reales y convertir los hallazgos en decisiones. Mi objetivo es aportar en equipos de Análisis de Datos, donde el criterio financiero y la experiencia técnica se traducen en mejores decisiones.
 
 **Herramientas que uso:** Python · Pandas · SQL · Excel · Power BI
 
